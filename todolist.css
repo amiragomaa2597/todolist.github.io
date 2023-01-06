@@ -1,0 +1,46 @@
+input[type="textbox"]
+{
+
+width : 70% ;
+}
+
+body{
+    text-align: center;
+}
+#identifier
+{
+background-color: rgb(93, 91, 95);
+color: azure;
+}
+
+table{
+    width:100%;
+    
+}
+.Done{
+    width:25%;
+}
+.Task{
+    width:50%;
+}
+.Delete
+{
+    width:25%;  
+}
+.donetask
+{
+    text-decoration: line-through;
+}
+body{
+    font-size: xx-large;
+}
+img{
+    width : 25%;
+
+
+}
+input[type=checkbox]
+{
+    width: 40px;
+    height: 40px;
+}
